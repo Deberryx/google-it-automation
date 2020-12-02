@@ -1,6 +1,6 @@
 # [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 
-<a href="https://ibb.co/MSBmh7h"><img src="https://i.ibb.co/DWrZbQb/Coursera-N74-KNYBT74-QV-1.jpg" alt="Coursera-N74-KNYBT74-QV-1" border="0"></a>
+<a href="https://ibb.co/MSBmh7h"><img src="https://i.ibb.co/BgYktW6/Coursera-SP2-YM86-N9-R45.jpg" alt="Coursera-SP2-YM86-N9-R45" border="0"></a>
 
 * All copyrighted materials belong to Coursera, this repository written for reference purpose
 
